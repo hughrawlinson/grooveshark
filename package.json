@@ -1,0 +1,36 @@
+{
+  "name": "grooveshark",
+  "id": "grooveshark",
+  "version": "0.0.1",
+  "description": "Quick 'n dirty JS wrapper for the Grooveshark API.",
+  "keywords": [
+    "grooveshark",
+    "grooveshark api",
+    "grooveshark wrapper",
+    "music"
+  ],
+  "author": {
+    "name": "Hugh Rawlinson",
+    "email": "hugh@codeoclock.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughrawlinson/grooveshark.git",
+    "web": "https://github.com/hughrawlinson/grooveshark"
+  },
+  "bugs": {
+    "url": "http://github.com/hughrawlinson/grooveshark/issues/"
+  },
+  "directories": {
+    "lib": "./"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "readmeFilename": "Readme.md",
+  "homepage": "https://github.com/hughrawlinson/grooveshark",
+  "_id": "grooveshark@0.0.1"
+}
