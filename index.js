@@ -8,13 +8,16 @@ module.exports = function(api_key,secret){
     self.apiKey = api_key;
     self.secret = secret;
     var makeRequest = function(options,callback){
-        if(options.method!=='startSession'&&self.sessionID!==''){
+        if(options.method!=='startSession'&&self.sessionID===''){
+            console.info('Starting Grooveshark Session...');
             makeRequest({
                 method:'startSession'
             },function(error,response,data){
+                console.info('Grooveshark Session Started');
                 self.sessionID = data.result.sessionID;
                 makeRequest(options,callback);
             });
+            return;
         }
         var body = {
             "method":options.method,
