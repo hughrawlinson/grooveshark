@@ -1,6 +1,6 @@
 {
   "name": "grooveshark",
-  "id": "grooveshark",
+  "id": "grooveshark-js",
   "version": "0.0.1",
   "description": "Quick 'n dirty JS wrapper for the Grooveshark API.",
   "keywords": [
@@ -32,5 +32,5 @@
   ],
   "readmeFilename": "Readme.md",
   "homepage": "https://github.com/hughrawlinson/grooveshark",
-  "_id": "grooveshark@0.0.1"
+  "_id": "grooveshark-js@0.0.1"
 }
