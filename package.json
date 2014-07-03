@@ -1,5 +1,5 @@
 {
-  "name": "grooveshark",
+  "name": "grooveshark-js",
   "id": "grooveshark-js",
   "version": "0.0.1",
   "description": "Quick 'n dirty JS wrapper for the Grooveshark API.",
