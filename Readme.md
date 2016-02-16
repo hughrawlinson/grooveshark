@@ -1,5 +1,7 @@
 # Grooveshark JS
 
+## Grooveshark doesn't exist anymore, don't use this package.
+
 A quick 'n dirty JS wrapper for the Grooveshark API, which sadly is not RESTful.
 
 ## Usage
