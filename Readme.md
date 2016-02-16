@@ -2,22 +2,12 @@
 
 ## Grooveshark doesn't exist anymore, don't use this package.
 
-A quick 'n dirty JS wrapper for the Grooveshark API, which sadly is not RESTful.
+This was a quick 'n dirty JS wrapper for the Grooveshark API, which sadly doesn't exist anymore.
 
 ## Usage
-```javascript
-var gs = grooveshark(config.grooveshark.key,config.grooveshark.secret);
-gs.makeRequest({
-        method:'getUserIDFromUsername',
-        parameters:{
-            username:'hughrawlinson'
-        }
-    }, function(error,response,data){
-        console.log(data);
-    }
-);
-```
-![Simples!](http://www.arenaswimclub.com.au/wp-content/uploads/2013/10/simples.jpg)
+
+Don't.
+
 ## License
 MIT.
 
