@@ -1,4 +1,5 @@
 # Grooveshark JS
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 ## Grooveshark doesn't exist anymore, don't use this package.
 
